@@ -1,43 +1,38 @@
+# Hi there, I'm Imansha Dilshan 👋
 
+Welcome to my GitHub profile! I'm an undergraduate at the University of Kelaniya, currently pursuing my B.Sc. (Hons.) in Software Engineering. I’m passionate about software development and enjoy building scalable and efficient solutions.
 
-<header>
-    <h1>Hi, I'm Imansha Dilshan 👋</h1>
-    <p>Welcome to my personal website! I'm a passionate Software Engineer focused on building scalable and efficient solutions.</p>
-</header>
+## 🚀 About Me
 
-<section>
-    <h2>🚀 About Me</h2>
-    <p>I'm an undergraduate at the University of Kelaniya, pursuing my B.Sc. (Hons.) in Software Engineering. I love learning new technologies, building web applications, and solving complex problems through code.</p>
+- 🎓 I’m currently studying Software Engineering at the University of Kelaniya.
+- 💻 I specialize in **Software Engineering** and have experience with **Web Development**, **Full-stack Development**, and **Database Design**.
+- 🌱 I’m currently learning **JavaScript**, **React**, **Node.js**, and **MongoDB** to build full-stack web applications.
+- 💡 I’m passionate about solving complex problems and continuously learning new technologies.
+- 📚 I love tackling new challenges and applying my skills to create impactful projects.
 
-    <div class="tech-stack">
-        <h3>🛠️ Technologies & Tools</h3>
-        <ul>
-            <li><strong>Languages:</strong> Java, JavaScript, PHP, HTML/CSS</li>
-            <li><strong>Frameworks:</strong> MERN stack (MongoDB, Express.js, React, Node.js)</li>
-            <li><strong>Tools:</strong> Git, VS Code, Docker</li>
-        </ul>
-    </div>
+## 🛠️ Technologies & Tools
 
-    <div class="projects">
-        <h3>📂 Notable Projects</h3>
-        <ul>
-            <li><strong>E-commerce-Site-MERN:</strong> A full-stack e-commerce web app built with the MERN stack.</li>
-            <li><strong>Stayfinder:</strong> A property listing and booking app developed using HTML, CSS, JS, and PHP.</li>
-            <li><strong>Fuel-Project:</strong> A Java-based software architecture project related to fuel management.</li>
-        </ul>
-    </div>
-</section>
+Here are some of the technologies and tools I work with:
 
-<section class="contact-info">
-    <h3>🔗 Connect with Me</h3>
-    <ul>
-        <li><a href="https://www.linkedin.com/in/imansha-dilshan-6768662a0" target="_blank">LinkedIn</a></li>
-    </ul>
-</section>
+- **Languages**: Java, JavaScript, PHP, HTML, CSS
+- **Frameworks**: MERN stack (MongoDB, Express.js, React, Node.js)
+- **Tools**: Git, Docker, VS Code
 
-<footer>
-    <p>Feel free to explore my projects and connect with me! 😊</p>
-</footer>
+## 📂 Notable Projects
 
-</body>
-</html>
+Here are some of the projects I’ve worked on:
+
+1. **E-commerce-Site-MERN** – A full-stack e-commerce web app built using the MERN stack.
+2. **Stayfinder** – A web application for property listings and bookings using HTML, CSS, JS, and PHP.
+3. **Fuel-Project** – A Java-based project focusing on fuel management systems with an emphasis on software architecture.
+
+Feel free to explore my repositories and contribute to open-source projects!
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/imansha-dilshan-6768662a0)
+
+---
+
+Thanks for visiting my profile! 😄
+
