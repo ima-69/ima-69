@@ -1,3 +1,5 @@
+
+
 <!-- Imansha Dilshan | Modern GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Imansha Dilshan</h1>
@@ -63,48 +65,35 @@
 
 ## 🚩 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### <img src="https://skillicons.dev/icons?i=react,spring,docker" height="20"/> [SalonSync](https://linktr.ee/salonsync)
+> *Salon booking platform using microservices (Spring Boot + React)*  
+> **Keywords:** Microservices, Authentication, Real-Time, Payments  
+> **Tech:** Spring Boot, React, MySQL, RabbitMQ, Keycloak, Stripe, Docker  
+> [GitHub Repo](#) <!-- Replace # with repo link when public -->
 
-      <h4><img src="https://skillicons.dev/icons?i=react,spring,docker" height="20"/> <a href="https://linktr.ee/salonsync">SalonSync</a></h4>
-      <ul>
-        <li>Salon booking platform using microservices (Spring Boot + React)</li>
-        <li><b>Keywords:</b> Microservices, Authentication, Real-Time, Payments</li>
-        <li><b>Tech:</b> Spring Boot, React, MySQL, RabbitMQ, Keycloak, Stripe, Docker</li>
-        <li>[GitHub Repo](#) <!-- Replace # with actual repo when public --></li>
-      </ul>
+---
 
-      <h4><img src="https://skillicons.dev/icons?i=php,html,css,mysql" height="20"/> <a href="https://github.com/ima-69/Stayfinder">Stayfinder</a></h4>
-      <ul>
-        <li>Rental listing platform with ad posting, plans, admin workflow</li>
-        <li><b>Keywords:</b> Rental Listings, Admin Workflow, Subscriptions</li>
-        <li><b>Tech:</b> HTML, CSS, JavaScript, PHP, MySQL</li>
-        <li>[GitHub Repo](https://github.com/ima-69/Stayfinder)</li>
-      </ul>
+### <img src="https://skillicons.dev/icons?i=react,spring,reactnative" height="20"/> [FuelQ](https://github.com/software-architecture-project-kln/fuel-project)
+> *Fuel quota system (Web & Mobile) for users, operators, admins*  
+> **Keywords:** Fuel Management, Real-Time Alerts, QR Code  
+> **Tech:** Spring Boot, React, React Native, JWT, Twilio, Mailgun  
+> [GitHub Repo](https://github.com/software-architecture-project-kln/fuel-project)
 
-    </td>
-    <td width="50%" valign="top">
+---
 
-      <h4><img src="https://skillicons.dev/icons?i=react,spring,reactnative" height="20"/> <a href="https://github.com/software-architecture-project-kln/fuel-project">FuelQ</a></h4>
-      <ul>
-        <li>Fuel quota system (Web & Mobile) for users, operators, admins</li>
-        <li><b>Keywords:</b> Fuel Management, Real-Time Alerts, QR Code</li>
-        <li><b>Tech:</b> Spring Boot, React, React Native, JWT, Twilio, Mailgun</li>
-        <li>[GitHub Repo](https://github.com/software-architecture-project-kln/fuel-project)</li>
-      </ul>
+### <img src="https://skillicons.dev/icons?i=php,html,css,mysql" height="20"/> [Stayfinder](https://github.com/ima-69/Stayfinder)
+> *Rental listing platform with ad posting, plans, admin workflow*  
+> **Keywords:** Rental Listings, Admin Workflow, Subscriptions  
+> **Tech:** HTML, CSS, JavaScript, PHP, MySQL  
+> [GitHub Repo](https://github.com/ima-69/Stayfinder)
 
-      <h4><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="20"/> <a href="https://github.com/ima-69/Shopping-Squad-MERN">Shopping Squad</a></h4>
-      <ul>
-        <li>Full-stack eCommerce web app (MERN stack)</li>
-        <li><b>Keywords:</b> eCommerce, Authentication, Admin Dashboard, Payments</li>
-        <li><b>Tech:</b> MERN, Tailwind CSS, Redux, JWT, Cloudinary API, PayPal API, Docker</li>
-        <li>[GitHub Repo](https://github.com/ima-69/Shopping-Squad-MERN) | [Live Site](https://shoopin-squad.vercel.app/)</li>
-      </ul>
+---
 
-    </td>
-  </tr>
-</table>
+### <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="20"/> [Shopping Squad](https://github.com/ima-69/Shopping-Squad-MERN)
+> *Full-stack eCommerce web app (MERN stack)*  
+> **Keywords:** eCommerce, Authentication, Admin Dashboard, Payments  
+> **Tech:** MERN, Tailwind CSS, Redux, JWT, Cloudinary API, PayPal API, Docker  
+> [GitHub Repo](https://github.com/ima-69/Shopping-Squad-MERN) | [Live Site](https://shoopin-squad.vercel.app/)
 
 ---
 
