@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/imansha-dilshan-6768662a0"><img src="https://skillicons.dev/icons?i=linkedin" width="28"/></a>
   <a href="https://github.com/ima-69"><img src="https://skillicons.dev/icons?i=github" width="28"/></a>
   <a href="https://medium.com/@imansha.idr"><img src="https://skillicons.dev/icons?i=medium" width="28"/></a>
-  <a href="https://imansha-s-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="28"/></a>
+  <a href="https://imansha-s-portfolio.vercel.app/"><img src="https://github.com/ima-69/Imansha-s-Portfolio/blob/main/src/assets/favicon.png" width="28"/></a>
 </p>
 
 ---
