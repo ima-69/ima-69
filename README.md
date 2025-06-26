@@ -73,6 +73,14 @@
 
 ---
 
+### <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="20"/> [Shopping Squad](https://github.com/ima-69/Shopping-Squad-MERN)
+> *Full-stack eCommerce web app (MERN stack)*  
+> **Keywords:** eCommerce, Authentication, Admin Dashboard, Payments  
+> **Tech:** MERN, Tailwind CSS, Redux, JWT, Cloudinary API, PayPal API, Docker  
+> [GitHub Repo](https://github.com/ima-69/Shopping-Squad-MERN) | [Live Site](https://shoopin-squad.vercel.app/)
+
+---
+
 ### <img src="https://skillicons.dev/icons?i=react,spring,reactnative" height="20"/> [FuelQ](https://github.com/software-architecture-project-kln/fuel-project)
 > *Fuel quota system (Web & Mobile) for users, operators, admins*  
 > **Keywords:** Fuel Management, Real-Time Alerts, QR Code  
@@ -86,14 +94,6 @@
 > **Keywords:** Rental Listings, Admin Workflow, Subscriptions  
 > **Tech:** HTML, CSS, JavaScript, PHP, MySQL  
 > [GitHub Repo](https://github.com/ima-69/Stayfinder)
-
----
-
-### <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" height="20"/> [Shopping Squad](https://github.com/ima-69/Shopping-Squad-MERN)
-> *Full-stack eCommerce web app (MERN stack)*  
-> **Keywords:** eCommerce, Authentication, Admin Dashboard, Payments  
-> **Tech:** MERN, Tailwind CSS, Redux, JWT, Cloudinary API, PayPal API, Docker  
-> [GitHub Repo](https://github.com/ima-69/Shopping-Squad-MERN) | [Live Site](https://shoopin-squad.vercel.app/)
 
 ---
 
