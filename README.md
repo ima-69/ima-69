@@ -22,40 +22,72 @@
 
 ---
 
-## 🛠️ Skills
+<h2 align="center">🛠️ Skills</h2>
+<p align="center">Here are the technologies and tools I work with</p>
 
-<table>
+<table align="center">
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux" height="30"/>
+    <!-- Frontend Development -->
+    <td align="center" valign="top">
+      <b>Frontend Development</b>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML"/></td>
+          <td><img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS"/></td>
+          <td><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript"/></td>
+          <td><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></td>
+          <td><img src="https://skillicons.dev/icons?i=ts" height="48" alt="TypeScript"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=redux" height="48" alt="Redux"/></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
     </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,java,php" height="30"/>
+    <!-- Backend Development -->
+    <td align="center" valign="top">
+      <b>Backend Development</b>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring"/></td>
+          <td><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/></td>
+          <td><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></td>
+          <td><img src="https://skillicons.dev/icons?i=php" height="48" alt="PHP"/></td>
+          <td></td>
+        </tr>
+      </table>
     </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,docker,figma,photoshop,jira" height="30"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,azure" height="30"/>
+    <!-- Other Development Tools -->
+    <td align="center" valign="top">
+      <b>Other Development Tools</b>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></td>
+          <td><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/></td>
+          <td><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></td>
+          <td><img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/></td>
+          <td><img src="https://skillicons.dev/icons?i=photoshop" height="48" alt="Photoshop"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=jira" height="48" alt="Jira"/></td>
+          <td><img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/></td>
+          <td><img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 ---
 
