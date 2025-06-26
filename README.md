@@ -79,7 +79,7 @@
           <td><img src="https://skillicons.dev/icons?i=photoshop" height="48" alt="Photoshop"/></td>
         </tr>
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=jira" height="48" alt="Jira"/></td>
+          <td><img src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" height="48" alt="Jira"/></td>
           <td><img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/></td>
           <td><img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure"/></td>
         </tr>
