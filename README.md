@@ -19,10 +19,8 @@
 ### 🎓 About Me
 
 - 🏫 Third-year Software Engineering undergraduate, University of Kelaniya  
-- 🚀 Passionate about full-stack development, microservices, and cloud  
-- 👑 President – Software Engineering Students’ Association  
+- 🚀 Passionate about full-stack development cloud  
 - 🛠️ I love building real-world solutions with modern tech  
-- 📫 Connect with me: [imansha.idr@gmail.com](mailto:imansha.idr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/imansha-dilshan-6768662a0) | [Portfolio](https://imansha-s-portfolio.vercel.app/)
 
 ---
 
