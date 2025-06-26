@@ -17,7 +17,7 @@
 ### 🎓 About Me
 
 - 🏫 Third-year Software Engineering undergraduate, University of Kelaniya  
-- 🚀 Passionate about full-stack development cloud  
+- 🚀 Passionate about full-stack development & cloud  
 - 🛠️ I love building real-world solutions with modern tech  
 
 ---
