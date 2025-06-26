@@ -123,25 +123,6 @@
 
 ---
 
-## 🏆 Certificates
-
-- [AWS Educate: Introduction to Cloud 101](#)
-- [Meta: React Basics](#)
-- [Meta: Programming with JavaScript](#)
-- [Meta: HTML and CSS in Depth](#)
-- [Meta: Version Control](#)
-
----
-
-## 🌍 Volunteering & Leadership
-
-- 👑 **President**, Software Engineering Students’ Association (2025 - Present)
-- 🎨 **Head of Design**, IEEE WIE Student Branch Affinity Group (2024 - Present)
-- 💻 **PR Lead – IT Unit**, Leo Club of University of Kelaniya (2024 - 2025)
-- 🌱 **PR Coordinator**, Zero Plastic Movement (2024 - 2025)
-
----
-
 ## 🌐 Languages
 
 - **English** (Professional Proficiency)
